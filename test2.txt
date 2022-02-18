@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 0A85-EB76
+
+ Directory of C:\Users\Nitish  Chandel\Desktop\Gitproject
+
+18-02-2022  16:00    <DIR>          .
+18-02-2022  15:10    <DIR>          ..
+18-02-2022  15:28                22 index.html
+18-02-2022  15:28                 9 test1.txt
+18-02-2022  16:00                 0 test2.txt
+               3 File(s)             31 bytes
+               2 Dir(s)  157,787,459,584 bytes free
